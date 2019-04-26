@@ -1,1 +1,2 @@
-# magd150project
+# MAGD 150 GitHub Project
+##

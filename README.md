@@ -1,4 +1,5 @@
 # MAGD 150 GitHub Project
+
 **Derek Woodard**
 
 Here you will find many projects I have completed in my MAGD 150 class.

@@ -5,14 +5,14 @@
 
 ## Projects
 ### Lab 6
-    Lab 6 is a very simple program that explores using a class in processing, creating a cloud that follows your mouse, and disappears when you click.
-    [https://github.com/djw191/magd150project/tree/gh-pages/s19magd150_lab06_woodard](Source Code Directory)
+    Lab 6 is a very simple program that explores using a class in processing,
+    creating a cloud that follows your mouse, and disappears when you click.
+    [Source Code Directory](https://github.com/djw191/magd150project/tree/gh-pages/s19magd150_lab06_woodard)
 
 ### Lab 7
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).

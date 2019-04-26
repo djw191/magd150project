@@ -1,26 +1,14 @@
 # MAGD 150 GitHub Project
 **Derek Woodard**
 
-You can use the [editor on GitHub](https://github.com/djw191/magd150project/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+    Here you will find many projects I have completed in my MAG150 class.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Projects
+### Lab 6
+    Lab 6 is a very simple program that explores using a class in processing, creating a cloud that follows your mouse, and disappears when you click.
+    [https://github.com/djw191/magd150project/tree/gh-pages/s19magd150_lab06_woodard](Source Code Directory)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+### Lab 7
 
 **Bold** and _Italic_ and `Code` text
 

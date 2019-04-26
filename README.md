@@ -16,4 +16,4 @@ gravity into a 2d Program.  When the player clicks, its shoots 10 balls at a
 random angle and velocity towards a cup.  The cursor is a spinning red and
 white pinwheel.
 
-[Source Code Directory](https://github.com/djw191/magd150project/tree/gh-pages/s19magd150_lab07_woodard)
+[Source Code Directory](https://github.com/djw191/magd150project/tree/gh-pages/s19_magd150_lab07_woodard)

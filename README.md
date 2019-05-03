@@ -25,3 +25,17 @@ a snapshot of the instant and save it to a pdf.  The theme is a demotivational
 poster.
 
 [Source Code Directory](https://github.com/djw191/magd150project/tree/gh-pages/s19magd150_lab08_woodard)
+### Lab 9
+Lab 9 explores video and audio in processing.  With audio playing in the
+background, as well as triggered short sounds.  In this lab I attempt to
+sync up audio and video, but couldn't figure it out.  Video is from an
+old Bungie ViDoc.
+
+[Source Code Directory](https://github.com/djw191/magd150project/tree/gh-pages/s19magd150_lab09_woodard)
+### Lab 10
+Lab 10 is the most ambitious lab so far.  It uses 3d for the first time
+as well as complex rotation of the camera and objects.  A irregular 3d Shape is
+created using PShape.  With use input, an image can be saved and then
+reapplied to a shape in the scene.
+
+[Source Code Directory](https://github.com/djw191/magd150project/tree/gh-pages/s19magd150_lab10_woodard)
